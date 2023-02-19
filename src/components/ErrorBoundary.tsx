@@ -1,4 +1,5 @@
 import React, { Component, ReactNode } from "react";
+import { Notifier } from "@airbrake/browser";
 
 interface ErrorBoundaryProps {
   children: ReactNode;
@@ -9,11 +10,16 @@ interface ErrorBoundaryState {
 }
 
 class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundaryState> {
+  public airbrake?: Notifier;
   constructor(props: ErrorBoundaryProps) {
     super(props);
 
     // Define a state variable to track whether is an error or not
     this.state = { hasError: false };
+    this.airbrake = new Notifier({
+      projectId: 482785,
+      projectKey: "ca5f81794d6c0ac39e4e368e6416d9f0",
+    });
   }
 
   static getDerivedStateFromError(error: Error): ErrorBoundaryState {
@@ -22,8 +28,14 @@ class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundaryState> {
   }
 
   componentDidCatch(error: Error, errorInfo: React.ErrorInfo): void {
-    // You can use your own error logging service here
-    console.log({ error, errorInfo });
+    if (this.airbrake) {
+      this.airbrake.notify({
+        error: error,
+        params: { info: errorInfo },
+      });
+    } else {
+      console.log({ error, errorInfo });
+    }
   }
 
   render(): ReactNode {
