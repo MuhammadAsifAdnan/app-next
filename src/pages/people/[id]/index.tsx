@@ -43,7 +43,7 @@ const People: React.FC = () => {
         setPerson(data);
 
         const event = {
-          event: "Custom Event",
+          event: "test-custom-event",
           eventCategory: "category",
           eventAction: "action",
           eventLabel: "label",
