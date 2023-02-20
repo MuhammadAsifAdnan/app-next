@@ -25,7 +25,12 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
     eventLabel: "label",
     eventValue: "value",
   };
-  window.dataLayer.push(event);
+  if (
+    typeof window !== "undefined" &&
+    typeof window.dataLayer !== "undefined"
+  ) {
+    window.dataLayer.push(event);
+  }
   return (
     <div>
       <h1>CatFacts</h1>
