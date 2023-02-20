@@ -2,6 +2,12 @@ import React from "react";
 import { GetServerSidePropsContext } from "next";
 import axios from "axios";
 
+declare global {
+  interface Window {
+    dataLayer: any[];
+  }
+}
+
 interface ICatFacts {
   catFacts: any;
   error: any;
@@ -12,6 +18,14 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
   if (test === "undefined") {
     throw new Error("hah");
   }
+  const event = {
+    event: "Custom Event",
+    eventCategory: "category",
+    eventAction: "action",
+    eventLabel: "label",
+    eventValue: "value",
+  };
+  window.dataLayer.push(event);
   return (
     <div>
       <h1>CatFacts</h1>
