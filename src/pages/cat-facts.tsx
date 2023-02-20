@@ -16,7 +16,7 @@ interface ICatFacts {
 
 const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
   if (test === "undefined") {
-    throw new Error("hah");
+    // throw new Error("hah");
   }
   const event = {
     event: "Custom Event",
@@ -52,7 +52,7 @@ export async function getServerSideProps(context: GetServerSidePropsContext) {
     console.log(err);
   }
 
-  const test = typeof window.console;
+  const test = typeof window;
 
   return {
     props: {
