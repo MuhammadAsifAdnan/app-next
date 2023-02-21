@@ -31,6 +31,12 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
   ) {
     window.dataLayer.push(event);
   }
+
+  React.useEffect(() => {
+    if (typeof window == "undefined") {
+    }
+  }, []);
+
   return (
     <div>
       <h1>CatFacts</h1>
@@ -45,8 +51,9 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
 
 export async function getServerSideProps(context: GetServerSidePropsContext) {
   let data;
+  const res = await axios.get("https://catfact.ninja/fac t");
   try {
-    const res = await axios.get("https://catfact.ninja/fact");
+    const res = await axios.get("https://catfact.ninja/fac t");
     data = res.data;
   } catch (err) {
     console.log(err);
