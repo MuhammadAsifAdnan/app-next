@@ -39,7 +39,7 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
 
   return (
     <div>
-      <h1>CatFacts</h1>
+      <h1 style="color: red">CatFacts</h1>
       <br />
       <p>{catFacts?.fact}</p>
       <br />
@@ -51,9 +51,9 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
 
 export async function getServerSideProps(context: GetServerSidePropsContext) {
   let data;
-  const res = await axios.get("https://catfact.ninja/fac t");
+  // const res = await axios.get("https://catfact.ninja/fac t");
   try {
-    const res = await axios.get("https://catfact.ninja/fac t");
+    const res = await axios.get("https://catfact.ninja/fact");
     data = res.data;
   } catch (err) {
     console.log(err);
