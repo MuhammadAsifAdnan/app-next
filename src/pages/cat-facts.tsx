@@ -2,6 +2,8 @@ import React from "react";
 import { GetServerSidePropsContext } from "next";
 import axios from "axios";
 
+import TestChart from "@/components/test";
+
 declare global {
   interface Window {
     dataLayer: any[];
@@ -35,7 +37,7 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
   React.useEffect(() => {
     window.console.log("hello mello");
     setTimeout(() => {
-      throw Error("lol");
+      // throw Error("lol");
     }, 1000);
   }, []);
 
@@ -47,6 +49,8 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
       <br />
       <br />
       <p>{test}</p>
+
+      <TestChart />
     </div>
   );
 };
