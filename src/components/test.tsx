@@ -64,7 +64,12 @@ const chartOptions = {
   ],
 };
 
-const test = () => {
+interface ITest {
+  catFacts: any;
+}
+
+const test: React.FC<ITest> = ({ catFacts }) => {
+  console.log(catFacts);
   return (
     <div>
       <ReactECharts

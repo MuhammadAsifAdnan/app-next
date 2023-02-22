@@ -50,7 +50,7 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
       <br />
       <p>{test}</p>
 
-      <TestChart />
+      <TestChart catFacts />
     </div>
   );
 };
