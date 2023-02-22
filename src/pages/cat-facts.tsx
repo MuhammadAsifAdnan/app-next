@@ -3,6 +3,7 @@ import { GetServerSidePropsContext } from "next";
 import axios from "axios";
 
 import TestChart from "@/components/test";
+import dynamic from "next/dynamic";
 
 declare global {
   interface Window {
@@ -15,6 +16,10 @@ interface ICatFacts {
   error: any;
   test: any;
 }
+
+const PreRegAnalytics = dynamic(() => import("@/components/test"), {
+  ssr: false,
+});
 
 const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
   if (test === "undefined") {
@@ -51,6 +56,7 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
       <p>{test}</p>
 
       <TestChart catFacts />
+      <PreRegAnalytics catFacts />
     </div>
   );
 };
