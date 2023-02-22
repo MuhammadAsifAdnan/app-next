@@ -87,8 +87,8 @@ Error.getInitialProps = async ({ req, res, err, ...props }) => {
       projectKey: "ca5f81794d6c0ac39e4e368e6416d9f0",
     });
 
-    console.log(err);
-
+    console.log("keys: ", Object.keys(err));
+    console.log("err: ", err);
     airbrake.notify({
       error: "err",
       params: JSON.stringify(err),
