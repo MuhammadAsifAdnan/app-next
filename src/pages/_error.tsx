@@ -45,15 +45,17 @@ import React from "react";
 import NextError from "next/error";
 import { useRouter } from "next/router";
 
-const Error: Pick<typeof NextError, "getInitialProps"> = () => {
-  const router = useRouter();
-  const statusCode = "x";
+const Error: Pick<typeof NextError, "getInitialProps"> = (props: any) => {
+  const statusCode = { props };
   return (
-    <p>
-      {statusCode
-        ? `An error ${statusCode} occurred on server`
-        : "An error occurred on client"}
-    </p>
+    <>
+      <p>
+        {statusCode
+          ? `An error ${statusCode} occurred on server`
+          : "An error occurred on client"}
+      </p>
+      <pre>{JSON.stringify(props)}</pre>
+    </>
   );
 };
 
