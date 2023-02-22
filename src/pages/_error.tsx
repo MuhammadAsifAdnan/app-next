@@ -46,7 +46,7 @@ import NextError from "next/error";
 import { useRouter } from "next/router";
 
 const Error: Pick<typeof NextError, "getInitialProps"> = (props: any) => {
-  const statusCode = { props };
+  const { statusCode } = props;
   return (
     <>
       <p>
