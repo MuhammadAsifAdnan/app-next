@@ -33,13 +33,12 @@ const CatFacts: React.FC<ICatFacts> = ({ catFacts, test }) => {
   }
 
   React.useEffect(() => {
-    if (typeof window == "undefined") {
-    }
+    window.console.log("hello mello");
   }, []);
 
   return (
     <div>
-      <h1 style="color: red">CatFacts</h1>
+      <h1>CatFacts</h1>
       <br />
       <p>{catFacts?.fact}</p>
       <br />
