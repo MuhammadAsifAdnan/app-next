@@ -2,7 +2,7 @@ import React from "react";
 import { GetServerSidePropsContext } from "next";
 import axios from "axios";
 
-import TestChart from "@/components/test/test";
+import TestChart from "@/components/chart/test-chart";
 import dynamic from "next/dynamic";
 
 declare global {
@@ -17,7 +17,7 @@ interface ICatFacts {
   test: any;
 }
 
-const PreRegAnalytics = dynamic(() => import("@/components/test/test"), {
+const PreRegAnalytics = dynamic(() => import("@/components/chart/test-chart"), {
   ssr: false,
 });
 
