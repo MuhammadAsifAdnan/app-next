@@ -1,14 +1,15 @@
 steps:
   - label: ":hammer: :hammer: Buildd"
-    command: "scripts/build.sh"
-    key: build
+    command: echo "Hello buildkite"
+  #  command: "scripts/build.sh"
+  #   key: build
 
-  - label: ":test_tube: Testt"
-    command: "scripts/test.sh"
-    key: test
-    depends_on: build
+  # - label: ":test_tube: Testt"
+  #   command: "scripts/test.sh"
+  #   key: test
+  #   depends_on: build
 
-  - label: ":rocket: Deployy :rocket:"
-    command: "scripts/deploy.sh"
-    key: deployyy
-    depends_on: test
+  # - label: ":rocket: Deployy :rocket:"
+  #   command: "scripts/deploy.sh"
+  #   key: deployyy
+  #   depends_on: test
