@@ -10,5 +10,5 @@ steps:
 
   - label: ":rocket: Deployy :rocket:"
     command: "scripts/deploy.sh"
-    key: deploy
+    key: deployyy
     depends_on: test
