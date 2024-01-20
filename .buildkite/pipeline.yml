@@ -1,6 +1,8 @@
 steps:
   - label: ":hammer: :hammer: Buildd"
     command: echo "Hello buildkite"
+    command: echo ":scream:"
+    command: buildkite-agent annotate --style 'info' 'annotate hello world'
   #  command: "scripts/build.sh"
   #   key: build
 
