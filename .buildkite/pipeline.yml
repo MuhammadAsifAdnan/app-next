@@ -10,11 +10,11 @@ steps:
       echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
       sudo apt-get update && sudo apt-get install yarn
     key: install-yarn
-    depends-on: install-nodejs
+    depends_on: install-nodejs
   - label: ":hammer: Install dependencies"
     command: yarn install && yarn build
     key: install-dependencies
-    depends-on: install-yarn
+    depends_on: install-yarn
 
   # - label: ":test_tube: Testt"
   #   command: "scripts/test.sh"
