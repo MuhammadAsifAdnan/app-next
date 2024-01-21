@@ -1,7 +1,9 @@
 steps:
   - label: ":hammer: :hammer: Buildd"
-    command: echo "Hello buildkite"
-    command: buildkite-agent annotate --style 'info' 'annotate hello world'
+  - label: ":hammer: Install Node.js and npm"
+    command: |
+      curl -sL https://deb.nodesource.com/setup_14.x | bash -
+      apt-get install -y nodejs
   - label: ":hammer: Install dependencies"
     command: npm install && npm build
 
