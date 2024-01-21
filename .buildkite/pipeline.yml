@@ -1,5 +1,4 @@
 steps:
-  - label: ":hammer: :hammer: Buildd"
   - label: ":hammer: Install Node.js and npm"
     command: |
       curl -sL https://deb.nodesource.com/setup_14.x | bash -
