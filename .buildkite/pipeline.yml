@@ -3,7 +3,7 @@ steps:
     command: echo "Hello buildkite"
     command: buildkite-agent annotate --style 'info' 'annotate hello world'
   - label: ":hammer: Install dependencies"
-    command: yarn && yarn build
+    command: npm install && npm build
 
   #  command: "scripts/build.sh"
   #   key: build
