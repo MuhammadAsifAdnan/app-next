@@ -16,9 +16,6 @@ steps:
     key: install-dependencies
     depends-on: install-yarn
 
-  #  command: "scripts/build.sh"
-  #   key: build
-
   # - label: ":test_tube: Testt"
   #   command: "scripts/test.sh"
   #   key: test
