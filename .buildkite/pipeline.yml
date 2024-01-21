@@ -1,10 +1,18 @@
 steps:
   - label: ":hammer: :hammer: Buildd"
     command: echo "Hello buildkite"
-    command: echo "Hello!"
     command: buildkite-agent annotate --style 'info' 'annotate hello world'
-    command: echo " ___ building next"
-    command: yarn build
+  - label: ":hammer: Install dependencies"
+    command: |
+      curl -o- -L https://yarnpkg.com/install.sh | bash
+      export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+  - label: ":hammer: :hammer: Buildd"
+    command: |
+      echo "Hello buildkite"
+      echo "Hello!"
+      buildkite-agent annotate --style 'info' 'annotate hello world'
+      echo " ___ building next"
+      yarn build
 
   #  command: "scripts/build.sh"
   #   key: build
