@@ -1,10 +1,13 @@
 steps:
   - label: ":hammer: Install Node.js and npm"
     command: |
-      curl -sL https://deb.nodesource.com/setup_14.x | bash -
+      curl -sL https://deb.nodesource.com/setup_16.x | bash -
       apt-get install -y nodejs
+  - label: ":yarn: Install Yarn"
+    command: |
+      npm install --global yarn
   - label: ":hammer: Install dependencies"
-    command: npm install && npm build
+    command: yarn install && yarn build
 
   #  command: "scripts/build.sh"
   #   key: build
