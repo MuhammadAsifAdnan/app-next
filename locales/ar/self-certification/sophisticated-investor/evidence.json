@@ -1,0 +1,70 @@
+{
+  "section_title": "",
+  "evidence_1": {
+    "heading": "",
+    "hint": "",
+    "form": {
+      "option_1": "",
+      "option_2": "",
+      "option_3": "",
+      "option_4": ""
+    },
+    "validation_error_messages": {
+      "answer_required": ""
+    }
+  },
+  "evidence_2_1": {
+    "heading": "",
+    "company_name_label": "",
+    "company_name_one_placeholder": "",
+    "company_name_two_placeholder": "",
+    "validation_error_messages": {
+      "company_name_one_required": "",
+      "company_name_two_required": ""
+    }
+  },
+  "evidence_2_2": {
+    "heading": "",
+    "company_name_label": "",
+    "company_name_placeholder": "",
+    "validation_error_messages": {
+      "company_name_required": ""
+    }
+  },
+  "evidence_2_3": {
+    "heading": "",
+    "company_name_label": "",
+    "company_name_placeholder": "",
+    "validation_error_messages": {
+      "company_name_required": ""
+    }
+  },
+  "evidence_3": {
+    "heading": "",
+    "hint": "",
+    "form": {
+      "option_1": "",
+      "option_2": "",
+      "option_3": "",
+      "option_4": "",
+      "option_5": ""
+    },
+    "validation_error_messages": {
+      "answer_required": ""
+    }
+  },
+  "evidence_4": {
+    "heading": "",
+    "hint": "",
+    "form": {
+      "option_1": ""
+    },
+    "validation_error_messages": {
+      "answer_required": ""
+    }
+  },
+  "evidence_5": {
+    "heading": "",
+    "statement": ""
+  }
+}

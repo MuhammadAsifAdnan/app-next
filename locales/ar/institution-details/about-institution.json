@@ -1,0 +1,31 @@
+{
+  "section_title": "",
+  "page_title": "",
+  "form": {
+    "institution_name_label": "",
+    "institution_name_placeholder": "",
+    "institution_type_label": "",
+    "institution_type_placeholder": "",
+    "company_number_label": "",
+    "company_number_placeholder": "",
+    "country_of_residence_label": ""
+  },
+  "validation_error_messages": {
+    "institution_name_required": "",
+    "not_only_spaces": "",
+    "institution_type_required": "",
+    "company_number_required": ""
+  },
+  "company_types": {
+    "private_limited_company": "",
+    "public_limited_company": "",
+    "limited_partnership": "",
+    "limited_liability_partnership": "",
+    "partnership": "",
+    "unincorporated_association": "",
+    "government": "",
+    "organisation": "",
+    "soletrader": ""
+  },
+  "next_address_cta_label": ""
+}

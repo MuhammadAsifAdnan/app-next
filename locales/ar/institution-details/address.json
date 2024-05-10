@@ -1,0 +1,25 @@
+{
+  "section_title": "",
+  "page_title": "",
+  "form": {
+    "label": {
+      "optional": "",
+      "line_1": "",
+      "line_2": "",
+      "town_or_city": "",
+      "county": "",
+      "region": "",
+      "postcode": ""
+    }
+  },
+  "validation_error_messages": {
+    "line_1": "",
+    "city": {
+      "required": "",
+      "invalid": ""
+    },
+    "county": "",
+    "postcode": ""
+  },
+  "next_tax_residency": ""
+}

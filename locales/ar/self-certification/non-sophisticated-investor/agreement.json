@@ -1,0 +1,12 @@
+{
+  "page_title": "",
+  "qualification_criteria": "",
+  "declaration_agreement": "",
+  "risk_acceptance": "",
+  "risk_warning_acceptance": "",
+  "cta_label_agree": "",
+  "validation_error_messages": {
+    "investor_risk_acceptance": "",
+    "risk_warning_acceptance": ""
+  }
+}

@@ -3,14 +3,12 @@
   "message": "{{name}}, this is a high-risk investment. How would you feel if you lost all the money you're about to invest? <riskWarningModalTag>Take 2 mins to learn more.</riskWarningModalTag>",
   "cta_label_leave": "Leave",
   "cta_label_ok_continue": "Ok, continue",
-
   "modal": {
     "title": "Risks of investing in early-stage businesses",
     "subtitle": "Due to the potential for losses, the Financial Conduct Authority (FCA) considers this investment to be high risk.",
     "key_risks_heading": "What are the key risks?",
     "cta_label_close": "Close"
   },
-
   "risks": {
     "risk_1": {
       "title": "You could lose all the money you invest",
@@ -26,7 +24,6 @@
         }
       }
     },
-
     "risk_2": {
       "title": "You won’t get your money back quickly",
       "descriptions": {
@@ -44,7 +41,6 @@
         }
       }
     },
-
     "risk_3": {
       "title": "Don’t put all your eggs in one basket",
       "descriptions": {
@@ -54,7 +50,6 @@
         }
       }
     },
-
     "risk_4": {
       "title": "The value of your investment can be reduced",
       "descriptions": {
@@ -66,7 +61,6 @@
         }
       }
     },
-
     "risk_5": {
       "title": "You are unlikely to be protected if something goes wrong",
       "descriptions": {

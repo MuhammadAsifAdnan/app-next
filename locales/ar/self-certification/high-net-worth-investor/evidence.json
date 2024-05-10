@@ -1,0 +1,66 @@
+{
+  "section_title": "",
+  "evidence_1": {
+    "question": "",
+    "hint": "",
+    "form": {
+      "option_1": "",
+      "option_2": ""
+    },
+    "validation_error_messages": {
+      "answer_required": ""
+    }
+  },
+  "evidence_2_1": {
+    "question": "",
+    "form": {
+      "question_label": "",
+      "question_placeholder": "",
+      "question_hint": ""
+    },
+    "validation_error_messages": {
+      "value_should_be_more_than_100000": "",
+      "value_is_invalid": ""
+    }
+  },
+  "evidence_2_2": {
+    "question": "",
+    "form": {
+      "question_label": "",
+      "question_placeholder": "",
+      "question_hint": ""
+    },
+    "validation_error_messages": {
+      "value_should_be_more_than_250000": "",
+      "value_is_invalid": ""
+    }
+  },
+  "evidence_3": {
+    "question": "",
+    "hint": "",
+    "form": {
+      "option_1": "",
+      "option_2": "",
+      "option_3": "",
+      "option_4": "",
+      "option_5": ""
+    },
+    "validation_error_messages": {
+      "answer_required": ""
+    }
+  },
+  "evidence_4": {
+    "question": "",
+    "hint": "",
+    "form": {
+      "option_1": ""
+    },
+    "validation_error_messages": {
+      "answer_required": ""
+    }
+  },
+  "evidence_5": {
+    "question": "",
+    "statement": ""
+  }
+}
