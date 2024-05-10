@@ -1,0 +1,25 @@
+{
+  "section_title": "Self-certify",
+  "investment_consent_heading": "Please confirm the following statement",
+  "investment_consent_text": "By continuing you agree that in the last 12 months you have invested less than 10% of your <0>net assets</0> in <1>high-risk investments</1> and you intend to do so in the next 12 months.",
+  "regulatory_compliance_text": "The FCA requires us to collect this information. We will not use or share this data for any purpose other than to satisfy regulatory obligations.",
+  "cta_label_continue": "Yes, continue",
+
+  "net_assets_modal": {
+    "title": "Net assets do not include your:",
+    "list": {
+      "1": "Home (primary residence)",
+      "2": "Pension or any pension withdrawals",
+      "3": "Any rights under qualifying contracts of insurance"
+    }
+  },
+
+  "high_risk_investments_modal": {
+    "title": "High-risk investments are:",
+    "list": {
+      "1": "Peer-to-peer (P2P) loans",
+      "2": "Investment based crowdfunding",
+      "3": "Unlisted shares (companies not listed on an exchange, e.g London Stock Exchange)"
+    }
+  }
+}

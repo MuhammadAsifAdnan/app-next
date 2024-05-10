@@ -1,0 +1,13 @@
+{
+  "page_heading": "Read and agree",
+  "restricted_investor_definition": "You are a restricted investor on the basis that you invest less than 10% of your net assets each year in securities that are not listed on an exchange.",
+  "investment_warning": "You understand that investing more than 10% of your net assets in high-risk investments could expose you to significant losses.",
+  "investor_declaration_agreement": "Please read and agree to the following investor declaration:",
+  "restricted_investor_risk_acceptance": "I accept that being a restricted investor will expose me to promotions for investment where there is a risk of losing all the money I invest. I am aware that it is open to me to seek professional advice before making any investment in a high-risk investment.",
+  "risk_warning_acceptance": "I understand and accept the <riskWarningModalTag>Risk Warnings</riskWarningModalTag>.",
+  "cta_label_agree": "Yes, I agree",
+  "validation_error_messages": {
+    "investor_risk_acceptance": "Please acknowledge the risks to proceed.",
+    "risk_warning_acceptance": "Please accept the Risk Warnings to proceed."
+  }
+}

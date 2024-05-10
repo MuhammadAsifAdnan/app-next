@@ -1,0 +1,66 @@
+{
+  "section_title": "Self-certify evidence {{count}} of 5",
+  "evidence_1": {
+    "question": "Which statement best describes you?",
+    "hint": "Select ONE ANSWER. If none of the options below applies to you, please change your investor profile.",
+    "form": {
+      "option_1": "I earn more than £100,000 per year",
+      "option_2": "I hold net assets of at least £250,000"
+    },
+    "validation_error_messages": {
+      "answer_required": "Please pick one of the options above"
+    }
+  },
+  "evidence_2_1": {
+    "question": "Please provide details on your income",
+    "form": {
+      "question_label": "Total annual income",
+      "question_placeholder": "110,000 min.",
+      "question_hint": "Round up to the nearest £10,000"
+    },
+    "validation_error_messages": {
+      "value_should_be_more_than_100000": "The FCA requires you to earn more than £100,000 per year to certify as high net worth. Your answer does not meet the minimum.",
+      "value_is_invalid": "Please enter a valid number"
+    }
+  },
+  "evidence_2_2": {
+    "question": "Please provide details on your net assets",
+    "form": {
+      "question_label": "Total value of your net assets",
+      "question_placeholder": "Total value of your net assets",
+      "question_hint": "Round up to the nearest £10,000"
+    },
+    "validation_error_messages": {
+      "value_should_be_more_than_250000": "The FCA requires you to hold net assets of at least £250,000 to certify as high net worth. Your answer does not meet the minimum.",
+      "value_is_invalid": "Please enter a valid number"
+    }
+  },
+  "evidence_3": {
+    "question": "Have you made any of the following investments in the last two years?",
+    "hint": "Select <strong>All that apply</strong> ",
+    "form": {
+      "option_1": "Private companies through a direct investment",
+      "option_2": "Private companies via a network or business angel syndicate",
+      "option_3": "Tax efficient investments (e.g. EIS, SEIS, VCTs)",
+      "option_4": "Private Equity funds and investments",
+      "option_5": "Sophisticated investments (e.g unregulated collective investment schemes, foreign currencies, VCTs or commodities)"
+    },
+    "validation_error_messages": {
+      "answer_required": "Select at least one answer or change your investor profile"
+    }
+  },
+  "evidence_4": {
+    "question": "Please confirm that you have sufficient income and assets to be financially secure and meet your financial commitments",
+    "hint": "You may find <0>this calculator</0> helpful to work this out.",
+    "form": {
+      "option_1": "I confirm that I have sufficient income and assets to be financially secure and to meet my financial commitments, even if I lose the money I invest."
+    },
+    "validation_error_messages": {
+      "answer_required": "This field is required."
+    }
+  },
+  "evidence_5": {
+    "question": "Investment opportunities on Seedrs typically take 5-10 years to generate returns, if at all.",
+    "statement": "By continuing, you agree that this aligns with your investment objectives."
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "page_subheading": "Question {{current}} of {{total}}",
+  "cta_label_next": "Next",
+  "cta_label_submit": "Submit",
+  "required_answer_error_message": "Please choose an answer",
+
+  "question_set_1": {
+    "1": {
+      "label": "When do startups generally pay dividends?",
+      "options": {
+        "1": "As soon as the investment is made",
+        "2": "After the first 3 years",
+        "3": "They do not pay dividends"
+      }
+    },
+    "2": {
+      "label": "What happens if the startup I invest in fails?",
+      "options": {
+        "1": "The business will pay back my investment",
+        "2": "I will lose the money I invested",
+        "3": "Seedrs will pay back my investment"
+      }
+    },
+    "3": {
+      "label": "Can I get my money back after I invest?",
+      "options": {
+        "1": "Startup shares are illiquid, I will need to wait for an exit event",
+        "2": "I can sell my shares on a stock exchange at any point",
+        "3": "The business will buy my shares back whenever I want"
+      }
+    },
+    "4": {
+      "label": "If a startup issues further shares, how will this impact my investment?",
+      "options": {
+        "1": "My equity holding will be diluted",
+        "2": "I will be granted free shares to maintain my equity ",
+        "3": "There would be no impact"
+      }
+    },
+    "5": {
+      "label": "How should you invest into startups?",
+      "options": {
+        "1": "Invest all available money into one investment",
+        "2": "Only invest 10% of investable money into a diversified portfolio of startups",
+        "3": "Invest all available money into multiple investments"
+      }
+    }
+  },
+
+  "question_set_2": {
+    "1": {
+      "label": "If a startup issues further shares, how will this impact your shareholding?",
+      "options": {
+        "1": "My proportion of shareholding increases",
+        "2": "My proportion of shareholding will decrease due to dilution.",
+        "3": "My proportion of shareholding stays the same"
+      }
+    },
+    "2": {
+      "label": "Can I sell my shares at any point?",
+      "options": {
+        "1": "I will need to wait for an exit event",
+        "2": "I will easily be able to find someone to buy my shares privately",
+        "3": "The business will buy my shares back"
+      }
+    },
+    "3": {
+      "label": "Will the Financial Ombundsman Service compensate me for poor performance of an investment?",
+      "options": {
+        "1": "Seedrs will refund my investment",
+        "2": "The Financial Ombundsman Service will refund my investment",
+        "3": "I will not receive any compensation"
+      }
+    },
+    "4": {
+      "label": "Should I do my own research before I make an invetsment?",
+      "options": {
+        "1": "No, Seedrs already does it for me",
+        "2": "Yes I should research the invetsment opportunity before investing",
+        "3": "No, there's no need to do any research before making a high risk investment"
+      }
+    },
+    "5": {
+      "label": "What is the best way to invest in startup?",
+      "options": {
+        "1": "Pick a selection of businesses and invest all my money into them",
+        "2": "Pick one business and invest all my money in it",
+        "3": "Diversify my portfolio by investing in lots of businesses"
+      }
+    }
+  },
+
+  "question_set_3": {
+    "1": {
+      "label": "What will happen to my shareholdings if a company issues more shares after I have invested?",
+      "options": {
+        "1": "My percentage of shareholding will decrease due to dilution",
+        "2": "My percentage of shareholding will increase due to dilution",
+        "3": "My percentage of shareholding in the business will always remain the same"
+      }
+    },
+    "2": {
+      "label": "What happens if the start-up business I invest in fails?",
+      "options": {
+        "1": "Seedrs will offer loss relief of 30% of your initial investment",
+        "2": "I am unlikely to lose all the money I have invested",
+        "3": "I will lose the money I invested"
+      }
+    },
+    "3": {
+      "label": "Do start-up businesses generally pay dividends?",
+      "options": {
+        "1": "Only mature startup businesses pay dividends",
+        "2": "Start up businesses do not pay dividends",
+        "3": "Startup businesses pay dividends periodically"
+      }
+    },
+    "4": {
+      "label": "Is my investment FCA regulated?",
+      "options": {
+        "1": "Only the issuance of securities from the underlying business is FCA regulated",
+        "2": "Crowdfunding is not an FCA regulated activity",
+        "3": "Yes my investment in the crowdfunding campaign is an FCA regulated activity"
+      }
+    },
+    "5": {
+      "label": "What if I want to sell my shares in a start-up business I have invested in?",
+      "options": {
+        "1": "Aside from selling my shares on the Seedrs Secondary Market, which is not guaranteed, I will not be able to sell my shares until the company is acquired or goes public",
+        "2": "I will be able to sell my shares in the business at any point through a private broker",
+        "3": "There will be an opportunity to sell your shares back to the company through share buy-backs "
+      }
+    }
+  },
+
+  "question_set_4": {
+    "1": {
+      "label": "How much should I generally invest in startup businesses?",
+      "options": {
+        "1": "I shouldn't invest more than 10% of my net assets in startup businesses",
+        "2": "I should invest the majority of my money into startup businesses, as long as I invest the rest into safer investments",
+        "3": "I should invest an even proportion of my money into startups and safe investments"
+      }
+    },
+    "2": {
+      "label": "Do I need to conduct any of my own due diligence when investing in startups?",
+      "options": {
+        "1": "Seedrs conducts sufficient due diligence on all startups, so you don't need to do any of your own",
+        "2": "Seedrs recommends that investors always conduct their own due diligence on any investment opportunity",
+        "3": "You only need to conduct due diligence on startups which are less than 2 years old"
+      }
+    },
+    "3": {
+      "label": "If startups issue further shares will this have any impact on me?",
+      "options": {
+        "1": "Startups cannot issue any further shares once they have completed a crowdfunding raise",
+        "2": "If startups issue further shares they must always be on the same terms as existing investors",
+        "3": "Startups can issue further shares which may grant preferential rights that negatively impact existing investors"
+      }
+    },
+    "4": {
+      "label": "What protection is available if the start-up business I invest in fails?",
+      "options": {
+        "1": "The Financial Services Compensation Scheme will reimburse your investment up to 30%",
+        "2": "Seedrs will offer loss relief of 30% of your initial investment",
+        "3": "I will not receive any protection from the Financial Services Compensation Scheme if the investment performs poorly"
+      }
+    },
+    "5": {
+      "label": "Will I receive any dividends from the start-up businesses I invest in?",
+      "options": {
+        "1": "Start up businesses do not pay dividends",
+        "2": "Start up businesses pay dividends periodically, once they reach a certain stage of maturity",
+        "3": "Start up businesses only pay dividends within the first year of investment"
+      }
+    }
+  },
+
+  "question_set_5": {
+    "1": {
+      "label": "What protection is available if the start-up business I invest in fails?",
+      "options": {
+        "1": "I will only receive protection from the Financial Ombudsman Service for poor investment performance",
+        "2": "I will not receive any compensation from the Financial Ombudsman Service if the investment performs poorly",
+        "3": "The Financial Ombudsman Service caps compensation for poor investment performance at 30%"
+      }
+    },
+    "2": {
+      "label": "If a startup business I invest in decides to issue more shares after I have invested, what happens to my shareholding?",
+      "options": {
+        "1": "Dilution will not affect my investment in startup businesses",
+        "2": "Due to dilution, my proportion of shareholding will increase",
+        "3": "Due to dilution, my proportion of shareholding will decrease"
+      }
+    },
+    "3": {
+      "label": "What happens if the start-up business I invest in fails?",
+      "options": {
+        "1": "I will lose the money I invested",
+        "2": "You will only lose your money if it is the first startup investment",
+        "3": "The business may offer loss relief of 30% of your investment"
+      }
+    },
+    "4": {
+      "label": "What if I want to cash in on the success of a start-up business I have invested in?",
+      "options": {
+        "1": "Typically, I will not easily be able to sell my shares unless the company is acquired by another company or goes public",
+        "2": "Typically, I will be able to find someone to buy my shares in the business by using a private broker",
+        "3": "Typically, the business' founders will offer to buy back my shares"
+      }
+    },
+    "5": {
+      "label": "Is crowdfunding FCA regulated?",
+      "options": {
+        "1": "Crowdfunding is not an FCA regulated activity",
+        "2": "The FCA only regulates the issuance of shares by the startup business ",
+        "3": "My investment through Seedrs into the crowdfunding campaign is an FCA regulated activity"
+      }
+    }
+  },
+
+  "question_set_6": {
+    "1": {
+      "label": "Which of these is the best method to use when investing in start-up businesses?",
+      "options": {
+        "1": "You should spread the risk by allocating most of your money into startups",
+        "2": "You should invest all of your money into one company",
+        "3": "You should allocate the majority of your available money into safe investments and spread your risk by investing small amounts in multiple companies"
+      }
+    },
+    "2": {
+      "label": "Generally, how much should I invest into startup businesses?",
+      "options": {
+        "1": "I shouldn't invest more than 10% of my net assets in startup businesses",
+        "2": "I should invest an even proportion of my money into startups and safe investments",
+        "3": "I should invest the most of my money into startup businesses, as long as I invest the rest into safer investments"
+      }
+    },
+    "3": {
+      "label": "What happens if the start-up business I invest in fails?",
+      "options": {
+        "1": "I will only receive protection from the Financial Services Compensation Scheme for poor investment performance",
+        "2": "I will not receive any protection from the Financial Services Compensation Scheme or the Financial Ombudsman Service if the investment performs poorly",
+        "3": "Seedrs will offer loss relief of 30% of your investment"
+      }
+    },
+    "4": {
+      "label": "Do I need to conduct any of my own due diligence when investing in startups?",
+      "options": {
+        "1": "Seedrs conducts sufficient due diligence on all startups, so you don't need to do any of your own",
+        "2": "I should conduct my own due diligence on the investment opportunity",
+        "3": "I only need to conduct my own due diligence on startups which are raising for the first time"
+      }
+    },
+    "5": {
+      "label": "Will I receive any dividends from the start-up businesses I invest in?",
+      "options": {
+        "1": "Start up businesses do not pay dividends",
+        "2": "Start up businesses only pay dividends within the first year of investment",
+        "3": "Startup businesses pay dividends periodically"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cta_label_try_again": "Try again",
+  "cta_label_next_investor_profile": "Next – Investor profile",
+  "success": {
+    "page_heading": "Congratulations",
+    "page_content": "You have passed the quiz and answered all five questions correctly."
+  },
+  "failed": {
+    "page_heading": "You didn’t pass this time",
+    "page_content": "Don’t worry. We suggest you <riskWarningModalTag>read through our Risk Warnings</riskWarningModalTag> to remind yourself about the risks of investing in startups.",
+    "retake_quiz_text": "Once you feel ready, you can retake the quiz."
+  }
+}

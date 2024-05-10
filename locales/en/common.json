@@ -1,8 +1,12 @@
 {
-  "welcome_text": "Welcome to the 2019-2020 school year!",
-  "page_description": "This is a simple example of a page that can be created using the School Page Builder. You can add text, images, and links to other pages on your site.",
-  "testing_unique_key": "Test",
-  "testing_unique_key": "Test",
-  "testing_unique_key": "Test",
-  "testing_unique_key": "Test"
+  "runtime_error": {
+    "title": "Something went wrong!",
+    "cta_label": "Try again",
+    "message": "Please resubmit in order to continue."
+  },
+  "not_found_error": {
+    "title": "Page not found",
+    "message": "Could not find requested resource",
+    "cta_label": "Return to home"
+  }
 }

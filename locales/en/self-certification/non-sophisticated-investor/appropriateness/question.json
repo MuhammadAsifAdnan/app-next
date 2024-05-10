@@ -1,0 +1,49 @@
+{
+  "page_subheading": "Question {{current}} of {{total}}",
+  "cta_label_next": "Next",
+  "cta_label_submit": "Submit",
+  "required_answer_error_message": "Please choose an answer",
+
+  "question_set_1": {
+    "1": {
+      "label": "When do startups generally pay dividends?",
+      "options": {
+        "1": "As soon as the investment is made",
+        "2": "After the first 3 years",
+        "3": "They do not pay dividends"
+      }
+    },
+    "2": {
+      "label": "What happens if the startup I invest in fails?",
+      "options": {
+        "1": "The business will pay back my investment",
+        "2": "I will lose the money I invested",
+        "3": "Seedrs will pay back my investment"
+      }
+    },
+    "3": {
+      "label": "Can I get my money back after I invest?",
+      "options": {
+        "1": "Startup shares are illiquid, I will need to wait for an exit event",
+        "2": "I can sell my shares on a stock exchange at any point",
+        "3": "The business will buy my shares back whenever I want"
+      }
+    },
+    "4": {
+      "label": "If a startup issues further shares, how will this impact my investment?",
+      "options": {
+        "1": "My equity holding will be diluted",
+        "2": "I will be granted free shares to maintain my equity ",
+        "3": "There would be no impact"
+      }
+    },
+    "5": {
+      "label": "How should you invest into startups?",
+      "options": {
+        "1": "Invest all available money into one investment",
+        "2": "Only invest 10% of investable money into a diversified portfolio of startups",
+        "3": "Invest all available money into multiple investments"
+      }
+    }
+  }
+}

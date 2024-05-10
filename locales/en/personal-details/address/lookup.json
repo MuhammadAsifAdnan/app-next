@@ -1,0 +1,16 @@
+{
+  "section_title": "Personal details",
+  "page_title": "Address",
+  "heading": "Select an address",
+  "form": {
+    "postcode_label": "Postcode",
+    "find_an_address_cta_label": "Find address"
+  },
+  "validation": {
+    "no_input": "Please enter a valid postal code",
+    "invalid_postcode": "This is not a valid postal code",
+    "no_results_found": "Sorry, no addresses found"
+  },
+  "add_your_address_manually_cta_label": "Add your address manually",
+  "next_manual_address": "Next"
+}

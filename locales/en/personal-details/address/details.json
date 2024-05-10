@@ -1,0 +1,33 @@
+{
+  "section_title": "Personal details",
+  "page_title": "Address",
+  "form": {
+    "label": {
+      "optional": "Optional",
+      "line_1": "Address line 1",
+      "line_2": "Address line 2",
+      "town_or_city": "Town or city",
+      "county": "County",
+      "region": "Region",
+      "postcode": "Postcode"
+    },
+    "placeholder_label": {
+      "line_1": "Address line 1",
+      "line_2": "Address line 2",
+      "town_or_city": "Town or city",
+      "county": "County",
+      "region": "Region",
+      "postcode": "Postcode"
+    }
+  },
+  "validation_error_messages": {
+    "line_1": "Please enter a valid street address",
+    "city": {
+      "required": "Please enter a town or city",
+      "invalid": "Please enter at least one letter"
+    },
+    "county": "Please enter at least one letter",
+    "postcode": "Please enter a valid postcode"
+  },
+  "next_tax_residency": "Next - Tax residency"
+}

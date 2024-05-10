@@ -1,0 +1,43 @@
+{
+  "section_title": "Self-certification",
+  "page_title": "Investor profile",
+  "title": "Select one of the following",
+  "uk_jurisdiction_form": {
+    "restricted_investor": {
+      "title": "Restricted investor",
+      "description": "Invest less than 10% of my net assets each year in securities that are not listed on an exchange"
+    },
+    "high_net_worth_investor": {
+      "title": "High net worth investor",
+      "description": "I earn more than £100,000 per year, or hold net assets* of at least £250,000"
+    },
+    "sophisticated_investor": {
+      "title": "Sophisticated investor",
+      "eligibility_requirement": " I have done ONE of the following:",
+      "investment_experience": "Invested in more than one unlisted company",
+      "directorship_experience": "Been a director of a company with annual turnover of £1 million+",
+      "private_equity_engagement": "Worked in private equity in the last two years",
+      "angel_investor_network_membership": "Been a member of a business angels network for the last six months+"
+    }
+  },
+  "eu_jurisdiction_form": {
+    "sophisticated_investor": {
+      "title": "Sophisticated investor",
+      "investment_experience": "You meet at least TWO of the criteria below:",
+      "financial_means": "Annual gross income of EUR 60,000+, OR a portfolio (cash deposits, financial assets etc.) of EUR 100,000+",
+      "professional_qualification": "Hold / held a professional position in the financial sector, for at least one year, requiring crowdfunding knowledge, OR an executive position in a business that meets any one of the following:",
+      "personal_wealth": "own funds of ≥ €100,000;",
+      "business_turnover": "net turnover of € 2,000,000;",
+      "business_assets": "balance sheet of € 1,000,000.",
+      "active_investor": "Completed significant transactions on capital markets, averaging 10 transactions per quarter, over the previous four quarters"
+    },
+    "non_sophisticated_investor": {
+      "title": "Non-sophisticated Investor",
+      "description": "If you are a non-sophisticated investor you don’t meet any of the conditions above and you have seen the results of the loss calculator. Those results demonstrate your ability to bear loss."
+    }
+  },
+  "continue_cta": "Continue",
+  "validation_error_messages": {
+    "no_self_certification_selected": "Please pick one of the options above"
+  }
+}

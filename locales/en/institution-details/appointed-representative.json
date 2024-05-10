@@ -1,0 +1,30 @@
+{
+  "section_title": "Institution details",
+  "page_title": "Appointed representative",
+  "form": {
+    "full_legal_name": "Full legal name",
+    "full_legal_name_placeholder": "Full legal name",
+    "date_of_birth_label": "Date of birth",
+    "day_placeholder": "dd",
+    "month_placeholder": "mm",
+    "year_placeholder": "yyyy",
+    "nationality_label": "Representative’s nationality",
+    "nationality_hint": "Your nationality is where you are a legal citizen",
+    "nationality_placeholder": "Nationality",
+    "country_of_residence_label": "Representative’s country of residence",
+    "country_of_residence_placeholder": "Country of residence"
+  },
+  "validation_error_messages": {
+    "full_legal_name_required": "Please enter full name of the representative",
+    "at_least_two_name": "Please enter at least two names",
+    "no_number_allowed": "Cannot contain numbers",
+    "each_name_at_least_two_letter": "Each name must be at least two letters",
+    "date_of_birth_required": "Please enter date of birth of the representative",
+    "invalid": "Please enter a valid date of birth",
+    "18_or_older": "The representative must be 18 or older in order to proceed",
+    "nationality_required": "Please select nationality of the representative",
+    "country_of_residence_required": "Please select country of residence of the representative"
+  },
+  "cta_label_next_institution_info": "Next – Institution info",
+  "cta_label_register_as_individual": "Register as an individual"
+}

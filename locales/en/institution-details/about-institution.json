@@ -1,0 +1,31 @@
+{
+  "section_title": "Institution details",
+  "page_title": "About institution",
+  "form": {
+    "institution_name_label": "Institution name",
+    "institution_name_placeholder": "Institution name",
+    "institution_type_label": "Institution type",
+    "institution_type_placeholder": "Select an institution type",
+    "company_number_label": "Company number",
+    "company_number_placeholder": "Company number",
+    "country_of_residence_label": "Country of residence"
+  },
+  "validation_error_messages": {
+    "institution_name_required": "Please enter institution name",
+    "not_only_spaces": "Please check if the field contains not only spaces, but letters and other symbols.",
+    "institution_type_required": "Please enter institution type",
+    "company_number_required": "Please enter company number"
+  },
+  "company_types": {
+    "private_limited_company": "Private limited company (Ltd)",
+    "public_limited_company": "Public limited company (Plc)",
+    "limited_partnership": "Limited partnership (LP)",
+    "limited_liability_partnership": "Limited liability partnership (LLP)",
+    "partnership": "Partnership",
+    "unincorporated_association": "Unincorporated association",
+    "government": "Government",
+    "organisation": "Organisation",
+    "soletrader": "Sole trader"
+  },
+  "next_address_cta_label": "Next - Address"
+}

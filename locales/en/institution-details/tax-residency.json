@@ -1,0 +1,46 @@
+{
+  "section_title": "Institution Details",
+  "page_title": "Tax residency",
+  "page_description": "Please provide the country where your institution pays taxes. <0>Why do we collect this information?</0>",
+  "Why_do_we_collect_this_information_link": "https://help.seedrs.com/en/articles/1913336-why-does-seedrs-ask-for-my-tax-residency-information",
+  "form": {
+    "label": {
+      "tax_country_label": "Country you are liable to pay tax in",
+      "national_insurance_number": "National Insurance number",
+      "national_insurance_number_hint": "E.g QQ 12 34 56 C",
+      "tax_identification_number": "Tax Identification number",
+      "tax_identification_number_hint": "E.g 0123456789",
+      "company_tax_country": "What country does your company pay tax in?",
+      "company_tax_other_countries": "In what other country does your company pay taxes?",
+      "company_tax_number": "Company tax number",
+      "company_tax_number_placeholder": "Company tax number"
+    }
+  },
+  "validation_error_messages": {
+    "tax_country": "Please select a country",
+    "unique_tax_country": "Countries need to be unique",
+    "same_tax_country": "{{country}} has already been selected {{count}} times. Please select a different country.",
+    "tax_number_required": "Please enter a valid number",
+    "national_insurance_number": "Please enter a valid National Insurance number",
+    "uk_company_tax_number_invalid": "Please enter a valid Tax Identification number. UTR is a 10 digit number (e.g. 9999999999).",
+    "us_company_tax_number_invalid": "Please enter a valid Tax Identification number. TIN is a 9 digit number (e.g 999-99-9999 or 99-9999999).",
+    "tax_identification_number": "Please enter a valid Tax Identification number"
+  },
+  "remove_tax_residency_country_cta": "Remove",
+  "add_another_tax_residency_country": "Add another country",
+  "no_tax_residency": "I don’t have tax residency",
+  "comply_message": "Seedrs needs to comply with your resident states tax authority requirements regarding the exchange of information under the Common Reporting Standards (CRS). For more information <0>see here</0>.",
+  "crs_link": "https://www.revenue.ie/en/companies-and-charities/international-tax/aeoi/intro/aeoi.aspx",
+  "next_cta_label": {
+    "uk": "Next - Risk warning",
+    "eu": "Next - Investor Profile"
+  },
+  "fill_this_in_later": "I’ll fill this in later",
+  "no_tax_residency_view": {
+    "heading": "Sorry, only registered tax payers can invest.",
+    "description_1": "If you wish to disable your account, please contact us at <0>support@seedrs.com</0>.",
+    "description_2": "Please go back a step to provide your tax number to continue.",
+    "go_to_seedrs": "Go to seedrs.com"
+  },
+  "support_email": "support@seedrs.com"
+}

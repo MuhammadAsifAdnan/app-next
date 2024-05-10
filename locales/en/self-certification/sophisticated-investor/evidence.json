@@ -1,0 +1,70 @@
+{
+  "section_title": "Self-certify evidence {{count}} of 5",
+  "evidence_1": {
+    "heading": "In the last two years...",
+    "hint": "Select ONE ANSWER. If none of the options below applies to you, please change your investor profile.",
+    "form": {
+      "option_1": "I have invested in more than one unlisted company",
+      "option_2": "I have been a director of a company with an annual turnover of at least £1 million",
+      "option_3": "I have worked in private equity",
+      "option_4": "I have been a member of a business angels network for at least the last six months"
+    },
+    "validation_error_messages": {
+      "answer_required": "Please pick one of the options above"
+    }
+  },
+  "evidence_2_1": {
+    "heading": "Please provide the names of two unlisted companies you’ve invested in",
+    "company_name_label": "Company name",
+    "company_name_one_placeholder": "ABC ltd",
+    "company_name_two_placeholder": "A star ltd",
+    "validation_error_messages": {
+      "company_name_one_required": "Please enter company name",
+      "company_name_two_required": "Please enter company name"
+    }
+  },
+  "evidence_2_2": {
+    "heading": "Please provide the company name",
+    "company_name_label": "Company name",
+    "company_name_placeholder": "ABC ltd",
+    "validation_error_messages": {
+      "company_name_required": "Please enter company name"
+    }
+  },
+  "evidence_2_3": {
+    "heading": "Please provide the name of the business angels network",
+    "company_name_label": "Company name",
+    "company_name_placeholder": "ABC ltd",
+    "validation_error_messages": {
+      "company_name_required": "Please enter company name"
+    }
+  },
+  "evidence_3": {
+    "heading": "Have you made any of the following investments in the last two years?",
+    "hint": "Select <strong>All that apply</strong>",
+    "form": {
+      "option_1": "Private companies through a direct investment",
+      "option_2": "Private companies via a network or business angel syndicate",
+      "option_3": "Tax efficient investments (e.g. EIS, SEIS, VCTs)",
+      "option_4": "Private Equity funds and investments",
+      "option_5": "Sophisticated investments (e.g unregulated collective investment schemes, foreign currencies, VCTs or commodities)"
+    },
+    "validation_error_messages": {
+      "answer_required": "Select at least one answer or change your investor profile"
+    }
+  },
+  "evidence_4": {
+    "heading": "Please confirm that you have sufficient income and assets to be financially secure and meet your financial commitments",
+    "hint": "You may find <0>this calculator</0> helpful to work this out.",
+    "form": {
+      "option_1": "I confirm that I have sufficient income and assets to be financially secure and to meet my financial commitments, even if I lose the money I invest."
+    },
+    "validation_error_messages": {
+      "answer_required": "This field is required."
+    }
+  },
+  "evidence_5": {
+    "heading": "Investment opportunities on Seedrs typically take 5-10 years to generate returns, if at all.",
+    "statement": "By continuing, you agree that this aligns with your investment objectives."
+  }
+}

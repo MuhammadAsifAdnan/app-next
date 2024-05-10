@@ -1,0 +1,44 @@
+{
+  "section_title": "Personal details",
+  "page_title": "Tax residency",
+  "form": {
+    "label": {
+      "tax_country_label": "Country you are liable to pay tax in",
+      "national_insurance_number": "National Insurance number",
+      "national_insurance_number_hint": "E.g QQ 12 34 56 C",
+      "tax_identification_number": "Tax Identification number",
+      "tax_identification_number_hint": "E.g 0123456789"
+    }
+  },
+  "validation_error_messages": {
+    "tax_country": "Please select a country",
+    "unique_tax_country": "Countries need to be unique",
+    "same_tax_country": "{{country}} has already been selected {{count}} times. Please select a different country.",
+    "tax_number_required": "Please enter a valid number",
+    "national_insurance_number": "Please enter a valid National Insurance number",
+    "tax_identification_number": "Please enter a valid Tax Identification number"
+  },
+  "remove_tax_residency_country": "Remove",
+  "add_another_tax_residency_country": "Add another country",
+  "no_tax_residency": "I don’t have tax residency",
+  "comply_message": "Seedrs needs to comply with your resident states tax authority requirements regarding the exchange of information under the Common Reporting Standards (CRS). For more information <1>see here</1>.",
+  "crs_link": "https://www.revenue.ie/en/companies-and-charities/international-tax/aeoi/intro/aeoi.aspx",
+  "next_cta_label": {
+    "uk": "Next - Risk warning",
+    "eu": "Next - Investor Profile"
+  },
+  "fill_this_in_later": "I’ll fill this in later",
+  "no_tax_residency_view": {
+    "heading": "Sorry, only registered tax payers can invest.",
+    "description_1": "If you wish to disable your account, please contact us at <1>support@seedrs.com</1>.",
+    "description_2": "Please go back a step to provide your tax number to continue.",
+    "go_to_seedrs": "Go to seedrs.com"
+  },
+  "support_email": "support@seedrs.com",
+  "modal": {
+    "heading_1": "Why do we ask you what country you pay tax in?",
+    "description_1": "Seedrs is required by law to collect your tax residency information.",
+    "heading_2": "Where can I find my National Insurance number or Tax Identification Number?",
+    "description_2": "It’s on your National Insurance card, benefit letter, payslip or P60. For example, ‘QQ 12 34 56 C’."
+  }
+}

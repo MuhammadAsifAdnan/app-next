@@ -1,0 +1,31 @@
+{
+  "section_title": "Personal details",
+  "page_title": "About you",
+  "form": {
+    "full_legal_name_label": "Full legal name",
+    "full_legal_name_placeholder": "Full legal name",
+    "full_legal_name_hint_text": "Please ensure this matches your legal document(s)",
+    "date_of_birth_label": "Date of birth",
+    "day_placeholder": "dd",
+    "month_placeholder": "mm",
+    "year_placeholder": "yyyy",
+    "nationality_label": "Nationality",
+    "nationality_placeholder": "E.g. British",
+    "nationality_hint_text": "Your nationality is where you are a legal citizen",
+    "full_name_label": "Full name",
+    "full_name_placeholder": "Full name",
+    "full_name_hint_text": "Please provide your first and last name only, as they appear on legal documents"
+  },
+  "validation_error_messages": {
+    "full_legal_name_required": "Please enter your full name",
+    "at_least_two_name": "Please enter at least two names",
+    "no_number_allowed": "Cannot contain numbers",
+    "each_name_at_least_two_letter": "Each name must be at least two letters",
+    "date_of_birth_required": "Please enter your date of birth",
+    "invalid": "Please enter a valid date of birth",
+    "18_or_older": "You must be 18 or older in order to proceed",
+    "nationality_required": "Please select your primary nationality"
+  },
+  "next_address_cta_label": "Next - Address",
+  "institution_registration_cta_label": "Register as an institution"
+}
