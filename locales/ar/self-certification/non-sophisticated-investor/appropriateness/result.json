@@ -1,0 +1,13 @@
+{
+  "cta_label_try_again": "",
+  "cta_label_next_investor_profile": "",
+  "success": {
+    "page_heading": "",
+    "page_content": ""
+  },
+  "failed": {
+    "page_heading": "",
+    "page_content": "",
+    "retake_quiz_text": ""
+  }
+}

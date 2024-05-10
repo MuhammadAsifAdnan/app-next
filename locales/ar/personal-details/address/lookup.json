@@ -1,0 +1,16 @@
+{
+  "section_title": "",
+  "page_title": "",
+  "heading": "",
+  "form": {
+    "postcode_label": "",
+    "find_an_address_cta_label": ""
+  },
+  "validation": {
+    "no_input": "",
+    "invalid_postcode": "",
+    "no_results_found": ""
+  },
+  "add_your_address_manually_cta_label": "",
+  "next_manual_address": ""
+}

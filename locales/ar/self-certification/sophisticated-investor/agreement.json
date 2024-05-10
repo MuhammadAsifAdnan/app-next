@@ -1,0 +1,34 @@
+{
+  "page_heading": "",
+  "sophisticated_investor_definition": "",
+  "jurisdiction_uk_sophisticated_investor_qualification_list": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": ""
+  },
+  "jurisdiction_eu_sophisticated_investor_qualification_list": {
+    "1": {
+      "description": ""
+    },
+    "2": {
+      "description": "",
+      "child": {
+        "1": "",
+        "2": "",
+        "3": ""
+      }
+    },
+    "3": {
+      "description": ""
+    }
+  },
+  "investor_declaration_agreement": "",
+  "sophisticated_investor_risk_acceptance": "",
+  "risk_warning_acceptance": "",
+  "cta_label_agree": "",
+  "validation_error_messages": {
+    "investor_risk_acceptance": "",
+    "risk_warning_acceptance": ""
+  }
+}

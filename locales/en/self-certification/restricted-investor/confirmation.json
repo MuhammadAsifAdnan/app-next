@@ -4,7 +4,6 @@
   "investment_consent_text": "By continuing you agree that in the last 12 months you have invested less than 10% of your <0>net assets</0> in <1>high-risk investments</1> and you intend to do so in the next 12 months.",
   "regulatory_compliance_text": "The FCA requires us to collect this information. We will not use or share this data for any purpose other than to satisfy regulatory obligations.",
   "cta_label_continue": "Yes, continue",
-
   "net_assets_modal": {
     "title": "Net assets do not include your:",
     "list": {
@@ -13,7 +12,6 @@
       "3": "Any rights under qualifying contracts of insurance"
     }
   },
-
   "high_risk_investments_modal": {
     "title": "High-risk investments are:",
     "list": {

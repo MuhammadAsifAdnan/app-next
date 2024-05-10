@@ -1,0 +1,12 @@
+{
+  "runtime_error": {
+    "title": "",
+    "cta_label": "",
+    "message": ""
+  },
+  "not_found_error": {
+    "title": "",
+    "message": "",
+    "cta_label": ""
+  }
+}

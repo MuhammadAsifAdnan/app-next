@@ -1,0 +1,21 @@
+{
+  "cta_label_try_again": "",
+  "cta_label_next_investor_profile": "",
+  "success": {
+    "page_heading": "",
+    "page_content": ""
+  },
+  "failure_initial": {
+    "page_heading": "",
+    "page_content": ""
+  },
+  "failure_repeat": {
+    "page_heading": "",
+    "description": ""
+  },
+  "retake_quiz_text": "",
+  "retake_quiz_text_24_hours": "",
+  "risk_warning_info": "",
+  "cta_label_learn_about_risks": "",
+  "cta_label_log_out": ""
+}

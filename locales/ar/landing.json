@@ -1,0 +1,23 @@
+{
+  "welcome": {
+    "section_heading": "",
+    "page_content": "",
+    "notice": ""
+  },
+  "welcome_back": {
+    "section_heading": "",
+    "page_content": {
+      "uk": "",
+      "eu": ""
+    },
+    "lets_go_cta_label": ""
+  },
+  "progress_steps": {
+    "account_creation": "",
+    "personal_details": "",
+    "iaq": "",
+    "investor_profile_and_iaq": "",
+    "self_certification_and_agreement": "",
+    "agreement": ""
+  }
+}

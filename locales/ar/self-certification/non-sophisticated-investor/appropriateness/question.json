@@ -1,0 +1,48 @@
+{
+  "page_subheading": "",
+  "cta_label_next": "",
+  "cta_label_submit": "",
+  "required_answer_error_message": "",
+  "question_set_1": {
+    "1": {
+      "label": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": ""
+      }
+    },
+    "2": {
+      "label": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": ""
+      }
+    },
+    "3": {
+      "label": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": ""
+      }
+    },
+    "4": {
+      "label": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": ""
+      }
+    },
+    "5": {
+      "label": "",
+      "options": {
+        "1": "",
+        "2": "",
+        "3": ""
+      }
+    }
+  }
+}

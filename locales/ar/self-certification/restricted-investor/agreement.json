@@ -1,0 +1,13 @@
+{
+  "page_heading": "",
+  "restricted_investor_definition": "",
+  "investment_warning": "",
+  "investor_declaration_agreement": "",
+  "restricted_investor_risk_acceptance": "",
+  "risk_warning_acceptance": "",
+  "cta_label_agree": "",
+  "validation_error_messages": {
+    "investor_risk_acceptance": "",
+    "risk_warning_acceptance": ""
+  }
+}

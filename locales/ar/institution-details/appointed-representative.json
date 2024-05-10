@@ -1,0 +1,30 @@
+{
+  "section_title": "",
+  "page_title": "",
+  "form": {
+    "full_legal_name": "",
+    "full_legal_name_placeholder": "",
+    "date_of_birth_label": "",
+    "day_placeholder": "",
+    "month_placeholder": "",
+    "year_placeholder": "",
+    "nationality_label": "",
+    "nationality_hint": "",
+    "nationality_placeholder": "",
+    "country_of_residence_label": "",
+    "country_of_residence_placeholder": ""
+  },
+  "validation_error_messages": {
+    "full_legal_name_required": "",
+    "at_least_two_name": "",
+    "no_number_allowed": "",
+    "each_name_at_least_two_letter": "",
+    "date_of_birth_required": "",
+    "invalid": "",
+    "18_or_older": "",
+    "nationality_required": "",
+    "country_of_residence_required": ""
+  },
+  "cta_label_next_institution_info": "",
+  "cta_label_register_as_individual": ""
+}
