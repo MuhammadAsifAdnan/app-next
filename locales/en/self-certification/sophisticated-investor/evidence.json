@@ -41,7 +41,7 @@
   },
   "evidence_3": {
     "heading": "Have you made any of the following investments in the last two years?",
-    "hint": "Select <strong>All that apply</strong>",
+    "hint": "Select <strong>All that apply<\/strong>",
     "form": {
       "option_1": "Private companies through a direct investment",
       "option_2": "Private companies via a network or business angel syndicate",
@@ -55,7 +55,7 @@
   },
   "evidence_4": {
     "heading": "Please confirm that you have sufficient income and assets to be financially secure and meet your financial commitments",
-    "hint": "You may find <0>this calculator</0> helpful to work this out.",
+    "hint": "You may find <0>this calculator<\/0> helpful to work this out.",
     "form": {
       "option_1": "I confirm that I have sufficient income and assets to be financially secure and to meet my financial commitments, even if I lose the money I invest."
     },

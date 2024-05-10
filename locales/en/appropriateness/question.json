@@ -3,7 +3,6 @@
   "cta_label_next": "Next",
   "cta_label_submit": "Submit",
   "required_answer_error_message": "Please choose an answer",
-
   "question_set_1": {
     "1": {
       "label": "When do startups generally pay dividends?",
@@ -46,7 +45,6 @@
       }
     }
   },
-
   "question_set_2": {
     "1": {
       "label": "If a startup issues further shares, how will this impact your shareholding?",
@@ -89,7 +87,6 @@
       }
     }
   },
-
   "question_set_3": {
     "1": {
       "label": "What will happen to my shareholdings if a company issues more shares after I have invested?",
@@ -132,7 +129,6 @@
       }
     }
   },
-
   "question_set_4": {
     "1": {
       "label": "How much should I generally invest in startup businesses?",
@@ -175,7 +171,6 @@
       }
     }
   },
-
   "question_set_5": {
     "1": {
       "label": "What protection is available if the start-up business I invest in fails?",
@@ -218,7 +213,6 @@
       }
     }
   },
-
   "question_set_6": {
     "1": {
       "label": "Which of these is the best method to use when investing in start-up businesses?",

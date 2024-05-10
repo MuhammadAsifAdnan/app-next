@@ -13,11 +13,11 @@
     "lets_go_cta_label": "Let's go"
   },
   "progress_steps": {
-    "account_creation": "Step 1 <separator/> Account creation",
-    "personal_details": "Step 2 <separator/> Personal details",
-    "iaq": "Step 3 <separator/> Appropriateness test",
-    "investor_profile_and_iaq":  "Step 3 <separator/> Investor profile and Appropriateness test",
-    "self_certification_and_agreement":  "Step 4 <separator/> Self-certification and agreement",
-    "agreement":  "Step 4 <separator/> Agreement"
+    "account_creation": "Step 1 <separator\/> Account creation",
+    "personal_details": "Step 2 <separator\/> Personal details",
+    "iaq": "Step 3 <separator\/> Appropriateness test",
+    "investor_profile_and_iaq": "Step 3 <separator\/> Investor profile and Appropriateness test",
+    "self_certification_and_agreement": "Step 4 <separator\/> Self-certification and agreement",
+    "agreement": "Step 4 <separator\/> Agreement"
   }
 }

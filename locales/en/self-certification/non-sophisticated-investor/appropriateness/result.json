@@ -7,7 +7,7 @@
   },
   "failed": {
     "page_heading": "You didn’t pass this time",
-    "page_content": "Don’t worry. We suggest you <riskWarningModalTag>read through our Risk Warnings</riskWarningModalTag> to remind yourself about the risks of investing in startups.",
+    "page_content": "Don’t worry. We suggest you <riskWarningModalTag>read through our Risk Warnings<\/riskWarningModalTag> to remind yourself about the risks of investing in startups.",
     "retake_quiz_text": "Once you feel ready, you can retake the quiz."
   }
 }

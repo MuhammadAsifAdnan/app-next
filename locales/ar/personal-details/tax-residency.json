@@ -1,0 +1,44 @@
+{
+  "section_title": "",
+  "page_title": "",
+  "form": {
+    "label": {
+      "tax_country_label": "",
+      "national_insurance_number": "",
+      "national_insurance_number_hint": "",
+      "tax_identification_number": "",
+      "tax_identification_number_hint": ""
+    }
+  },
+  "validation_error_messages": {
+    "tax_country": "",
+    "unique_tax_country": "",
+    "same_tax_country": "",
+    "tax_number_required": "",
+    "national_insurance_number": "",
+    "tax_identification_number": ""
+  },
+  "remove_tax_residency_country": "",
+  "add_another_tax_residency_country": "",
+  "no_tax_residency": "",
+  "comply_message": "",
+  "crs_link": "",
+  "next_cta_label": {
+    "uk": "",
+    "eu": ""
+  },
+  "fill_this_in_later": "",
+  "no_tax_residency_view": {
+    "heading": "",
+    "description_1": "",
+    "description_2": "",
+    "go_to_seedrs": ""
+  },
+  "support_email": "",
+  "modal": {
+    "heading_1": "",
+    "description_1": "",
+    "heading_2": "",
+    "description_2": ""
+  }
+}

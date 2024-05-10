@@ -1,0 +1,43 @@
+{
+  "section_title": "",
+  "page_title": "",
+  "title": "",
+  "uk_jurisdiction_form": {
+    "restricted_investor": {
+      "title": "",
+      "description": ""
+    },
+    "high_net_worth_investor": {
+      "title": "",
+      "description": ""
+    },
+    "sophisticated_investor": {
+      "title": "",
+      "eligibility_requirement": "",
+      "investment_experience": "",
+      "directorship_experience": "",
+      "private_equity_engagement": "",
+      "angel_investor_network_membership": ""
+    }
+  },
+  "eu_jurisdiction_form": {
+    "sophisticated_investor": {
+      "title": "",
+      "investment_experience": "",
+      "financial_means": "",
+      "professional_qualification": "",
+      "personal_wealth": "",
+      "business_turnover": "",
+      "business_assets": "",
+      "active_investor": ""
+    },
+    "non_sophisticated_investor": {
+      "title": "",
+      "description": ""
+    }
+  },
+  "continue_cta": "",
+  "validation_error_messages": {
+    "no_self_certification_selected": ""
+  }
+}

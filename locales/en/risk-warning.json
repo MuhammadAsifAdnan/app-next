@@ -1,16 +1,14 @@
 {
   "title": "A warning from the Financial Conduct Authority (FCA)",
-  "message": "{{name}}, this is a high-risk investment. How would you feel if you lost all the money you're about to invest? <riskWarningModalTag>Take 2 mins to learn more.</riskWarningModalTag>",
+  "message": "{{name}}, this is a high-risk investment. How would you feel if you lost all the money you're about to invest? <riskWarningModalTag>Take 2 mins to learn more.<\/riskWarningModalTag>",
   "cta_label_leave": "Leave",
   "cta_label_ok_continue": "Ok, continue",
-
   "modal": {
     "title": "Risks of investing in early-stage businesses",
     "subtitle": "Due to the potential for losses, the Financial Conduct Authority (FCA) considers this investment to be high risk.",
     "key_risks_heading": "What are the key risks?",
     "cta_label_close": "Close"
   },
-
   "risks": {
     "risk_1": {
       "title": "You could lose all the money you invest",
@@ -26,7 +24,6 @@
         }
       }
     },
-
     "risk_2": {
       "title": "You won’t get your money back quickly",
       "descriptions": {
@@ -44,17 +41,15 @@
         }
       }
     },
-
     "risk_3": {
       "title": "Don’t put all your eggs in one basket",
       "descriptions": {
         "description_1": {
           "text": "Putting all your money into a single business or type of investment for example, is risky. Spreading your money across different investments makes you less dependent on any one to do well. A good rule of thumb is not to invest more than 10% of your money in high-risk investments.",
-          "url": "https://www.fca.org.uk/investsmart/5-questions-ask-you-invest"
+          "url": "https:\/\/www.fca.org.uk\/investsmart\/5-questions-ask-you-invest"
         }
       }
     },
-
     "risk_4": {
       "title": "The value of your investment can be reduced",
       "descriptions": {
@@ -66,23 +61,22 @@
         }
       }
     },
-
     "risk_5": {
       "title": "You are unlikely to be protected if something goes wrong",
       "descriptions": {
         "description_1": {
           "text": "Protection from the Financial Services Compensation Scheme (FSCS), in relation to claims against failed regulated firms, does not cover poor investment performance. Try the FSCS investment protection checker here.",
-          "url": "https://www.fscs.org.uk/check/investmentprotection-checker"
+          "url": "https:\/\/www.fscs.org.uk\/check\/investmentprotection-checker"
         },
         "description_2": {
           "text": "Protection from the Financial Ombudsman Service (FOS) does not cover poor investment performance. If you have a complaint against an FCA-regulated platform, FOS may be able to consider it. Learn more about FOS protection here.",
-          "url": "https://www.financialombudsman.org.uk/consumers"
+          "url": "https:\/\/www.financialombudsman.org.uk\/consumers"
         },
         "description_3": {
           "text": "If you are interested in learning more about how to protect yourself, visit the FCA’s website here.",
-          "url": "https://www.fca.org.uk/investsmart",
+          "url": "https:\/\/www.fca.org.uk\/investsmart",
           "subText": "For further information about investment-based crowdfunding, visit the FCA’s website here.",
-          "subUrl": "https://www.fca.org.uk/consumers/crowdfunding"
+          "subUrl": "https:\/\/www.fca.org.uk\/consumers\/crowdfunding"
         }
       }
     }

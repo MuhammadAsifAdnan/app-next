@@ -1,0 +1,46 @@
+{
+  "section_title": "",
+  "page_title": "",
+  "page_description": "",
+  "Why_do_we_collect_this_information_link": "",
+  "form": {
+    "label": {
+      "tax_country_label": "",
+      "national_insurance_number": "",
+      "national_insurance_number_hint": "",
+      "tax_identification_number": "",
+      "tax_identification_number_hint": "",
+      "company_tax_country": "",
+      "company_tax_other_countries": "",
+      "company_tax_number": "",
+      "company_tax_number_placeholder": ""
+    }
+  },
+  "validation_error_messages": {
+    "tax_country": "",
+    "unique_tax_country": "",
+    "same_tax_country": "",
+    "tax_number_required": "",
+    "national_insurance_number": "",
+    "uk_company_tax_number_invalid": "",
+    "us_company_tax_number_invalid": "",
+    "tax_identification_number": ""
+  },
+  "remove_tax_residency_country_cta": "",
+  "add_another_tax_residency_country": "",
+  "no_tax_residency": "",
+  "comply_message": "",
+  "crs_link": "",
+  "next_cta_label": {
+    "uk": "",
+    "eu": ""
+  },
+  "fill_this_in_later": "",
+  "no_tax_residency_view": {
+    "heading": "",
+    "description_1": "",
+    "description_2": "",
+    "go_to_seedrs": ""
+  },
+  "support_email": ""
+}

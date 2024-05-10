@@ -21,8 +21,8 @@
   "remove_tax_residency_country": "Remove",
   "add_another_tax_residency_country": "Add another country",
   "no_tax_residency": "I don’t have tax residency",
-  "comply_message": "Seedrs needs to comply with your resident states tax authority requirements regarding the exchange of information under the Common Reporting Standards (CRS). For more information <1>see here</1>.",
-  "crs_link": "https://www.revenue.ie/en/companies-and-charities/international-tax/aeoi/intro/aeoi.aspx",
+  "comply_message": "Seedrs needs to comply with your resident states tax authority requirements regarding the exchange of information under the Common Reporting Standards (CRS). For more information <1>see here<\/1>.",
+  "crs_link": "https:\/\/www.revenue.ie\/en\/companies-and-charities\/international-tax\/aeoi\/intro\/aeoi.aspx",
   "next_cta_label": {
     "uk": "Next - Risk warning",
     "eu": "Next - Investor Profile"
@@ -30,7 +30,7 @@
   "fill_this_in_later": "I’ll fill this in later",
   "no_tax_residency_view": {
     "heading": "Sorry, only registered tax payers can invest.",
-    "description_1": "If you wish to disable your account, please contact us at <1>support@seedrs.com</1>.",
+    "description_1": "If you wish to disable your account, please contact us at <1>support@seedrs.com<\/1>.",
     "description_2": "Please go back a step to provide your tax number to continue.",
     "go_to_seedrs": "Go to seedrs.com"
   },

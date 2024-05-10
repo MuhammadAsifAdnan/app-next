@@ -6,7 +6,7 @@
   "section_title": "Self-certify evidence {{count}} of 3",
   "evidence_1": {
     "question": "Have you made any of the following investments in the last two years?",
-    "hint": "Select <strong>All that apply</strong> ",
+    "hint": "Select <strong>All that apply<\/strong> ",
     "form": {
       "option_1": "Investments made in equity-based crowdfunding",
       "option_2": "Private companies through a direct investment, ",
@@ -22,18 +22,18 @@
     },
     "statement": "I have professional experience or skills acquired in relation to at least one of the above mentioned investments.",
     "confirmation": "I can confirm that based on the nature, volume or frequency of my experience in the previously selected investments OR professional skills, I have the necessary experience and knowledge to understand the risks involved in the types of investments offered on the crowdfunding platform.",
-    "confirmation_with_none_of_above_selected": "I confirm that I acknowledge that the investments may not be appropriate for me and that I may loss some/all my money that I invest."
+    "confirmation_with_none_of_above_selected": "I confirm that I acknowledge that the investments may not be appropriate for me and that I may loss some\/all my money that I invest."
   },
   "evidence_2": {
     "question": "Please confirm that you have sufficient income and assets to be financially secure and meet your financial commitments",
-    "hint": "You may find <0>this calculator</0> helpful to work this out.",
+    "hint": "You may find <0>this calculator<\/0> helpful to work this out.",
     "form": {
       "option_1": "I confirm that I have used this calculator and that the results show that I can bear this loss"
     },
     "validation_error_messages": {
       "answer_required": "This field is required."
     },
-    "calculator_url": "https://www.seedrs.com/accounts/investment-calculator"
+    "calculator_url": "https:\/\/www.seedrs.com\/accounts\/investment-calculator"
   },
   "evidence_3": {
     "question": "Investment opportunities on Seedrs typically take 5-10 years to generate returns, if at all.",

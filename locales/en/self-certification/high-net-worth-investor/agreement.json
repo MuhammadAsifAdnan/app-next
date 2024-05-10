@@ -3,7 +3,7 @@
   "high_net_worth_investor_definition": "You qualify as a self-certified high net worth investor on the basis that you earn more than £100,000 per year, or hold net assets of at least £250,000.",
   "investor_declaration_agreement": "To proceed, please read and agree to the following investor declaration:",
   "high_net_worth_investor_risk_acceptance": "I accept that being a high net worth investor will expose me to promotions for investment where there is a significant risk of losing all the money I invest. I am aware that it is open to me to seek professional advice before making any investment in a high-risk investment.",
-  "risk_warning_acceptance": "I understand and accept the <riskWarningModalTag>Risk Warnings</riskWarningModalTag>.",
+  "risk_warning_acceptance": "I understand and accept the <riskWarningModalTag>Risk Warnings<\/riskWarningModalTag>.",
   "cta_label_agree": "Yes, I agree",
   "validation_error_messages": {
     "investor_risk_acceptance": "Please acknowledge the risks to proceed.",

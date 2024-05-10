@@ -1,0 +1,42 @@
+{
+  "landing": {
+    "landing_title": "",
+    "description": ""
+  },
+  "section_title": "",
+  "evidence_1": {
+    "question": "",
+    "hint": "",
+    "form": {
+      "option_1": "",
+      "option_2": "",
+      "option_3": "",
+      "option_4": "",
+      "option_5": "",
+      "option_6": "",
+      "option_7": "",
+      "option_8": ""
+    },
+    "validation_error_messages": {
+      "answer_required": ""
+    },
+    "statement": "",
+    "confirmation": "",
+    "confirmation_with_none_of_above_selected": ""
+  },
+  "evidence_2": {
+    "question": "",
+    "hint": "",
+    "form": {
+      "option_1": ""
+    },
+    "validation_error_messages": {
+      "answer_required": ""
+    },
+    "calculator_url": "https:\/\/www.seedrs.com\/accounts\/investment-calculator"
+  },
+  "evidence_3": {
+    "question": "",
+    "statement": ""
+  }
+}

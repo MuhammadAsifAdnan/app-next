@@ -25,7 +25,7 @@
   },
   "investor_declaration_agreement": "To proceed, please read and agree to the following investor declaration:",
   "sophisticated_investor_risk_acceptance": "I accept that being a self-certified sophisticated investor will expose me to promotions for investments where there is a significant risk of losing all the money I invest. I am aware that it is open to me to seek advice from someone who specialises in advising on high-risk investments.",
-  "risk_warning_acceptance": "I understand and accept the <riskWarningModalTag>Risk Warnings</riskWarningModalTag>.",
+  "risk_warning_acceptance": "I understand and accept the <riskWarningModalTag>Risk Warnings<\/riskWarningModalTag>.",
   "cta_label_agree": "Yes, I agree",
   "validation_error_messages": {
     "investor_risk_acceptance": "Please acknowledge the risks to proceed.",

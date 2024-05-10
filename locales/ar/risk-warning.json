@@ -1,0 +1,84 @@
+{
+  "title": "",
+  "message": "",
+  "cta_label_leave": "",
+  "cta_label_ok_continue": "",
+  "modal": {
+    "title": "",
+    "subtitle": "",
+    "key_risks_heading": "",
+    "cta_label_close": ""
+  },
+  "risks": {
+    "risk_1": {
+      "title": "",
+      "descriptions": {
+        "description_1": {
+          "text": ""
+        },
+        "description_2": {
+          "text": ""
+        },
+        "description_3": {
+          "text": ""
+        }
+      }
+    },
+    "risk_2": {
+      "title": "",
+      "descriptions": {
+        "description_1": {
+          "text": ""
+        },
+        "description_2": {
+          "text": ""
+        },
+        "description_3": {
+          "text": ""
+        },
+        "description_4": {
+          "text": ""
+        }
+      }
+    },
+    "risk_3": {
+      "title": "",
+      "descriptions": {
+        "description_1": {
+          "text": "",
+          "url": "https:\/\/www.fca.org.uk\/investsmart\/5-questions-ask-you-invest"
+        }
+      }
+    },
+    "risk_4": {
+      "title": "",
+      "descriptions": {
+        "description_1": {
+          "text": ""
+        },
+        "description_2": {
+          "text": ""
+        }
+      }
+    },
+    "risk_5": {
+      "title": "",
+      "descriptions": {
+        "description_1": {
+          "text": "",
+          "url": "https:\/\/www.fscs.org.uk\/check\/investmentprotection-checker"
+        },
+        "description_2": {
+          "text": "",
+          "url": "https:\/\/www.financialombudsman.org.uk\/consumers"
+        },
+        "description_3": {
+          "text": "",
+          "url": "https:\/\/www.fca.org.uk\/investsmart",
+          "subText": "",
+          "subUrl": "https:\/\/www.fca.org.uk\/consumers\/crowdfunding"
+        }
+      }
+    }
+  }
+}

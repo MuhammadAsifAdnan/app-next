@@ -3,7 +3,7 @@
   "qualification_criteria": "You are a non-sophisticated investor on the basis that you do not meet the criteria of a sophisticated investor and you have seen the results of the loss calculator. Those results demonstrate your ability to bear loss.",
   "declaration_agreement": "To proceed, please read and agree to the following investor declaration:",
   "risk_acceptance": "I accept that being a non-sophisticated investor will expose me to promotions for investment where there is a risk of losing all the money I invest. I am aware that it is open to me to seek professional advice before making any investment in a high-risk investment.",
-  "risk_warning_acceptance": "I understand and accept the <riskWarningModalTag>Risk Warnings</riskWarningModalTag>.",
+  "risk_warning_acceptance": "I understand and accept the <riskWarningModalTag>Risk Warnings<\/riskWarningModalTag>.",
   "cta_label_agree": "Yes, I agree",
   "validation_error_messages": {
     "investor_risk_acceptance": "Please acknowledge the risks to proceed.",

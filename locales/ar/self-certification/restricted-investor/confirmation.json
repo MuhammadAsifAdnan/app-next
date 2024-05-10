@@ -1,0 +1,23 @@
+{
+  "section_title": "",
+  "investment_consent_heading": "",
+  "investment_consent_text": "",
+  "regulatory_compliance_text": "",
+  "cta_label_continue": "",
+  "net_assets_modal": {
+    "title": "",
+    "list": {
+      "1": "",
+      "2": "",
+      "3": ""
+    }
+  },
+  "high_risk_investments_modal": {
+    "title": "",
+    "list": {
+      "1": "",
+      "2": "",
+      "3": ""
+    }
+  }
+}

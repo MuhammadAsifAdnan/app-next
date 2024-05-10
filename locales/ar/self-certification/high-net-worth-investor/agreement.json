@@ -1,0 +1,12 @@
+{
+  "page_heading": "",
+  "high_net_worth_investor_definition": "",
+  "investor_declaration_agreement": "",
+  "high_net_worth_investor_risk_acceptance": "",
+  "risk_warning_acceptance": "",
+  "cta_label_agree": "",
+  "validation_error_messages": {
+    "investor_risk_acceptance": "",
+    "risk_warning_acceptance": ""
+  }
+}
